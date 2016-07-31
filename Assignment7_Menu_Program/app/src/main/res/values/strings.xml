@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment7_Menu_Program</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login__layout">Login_Layout</string>
+    <string name="title_activity_registration__layout">Registration_Layout</string>
+    <string name="title_activity_after__login">After_Login</string>
+</resources>
